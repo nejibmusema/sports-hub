@@ -4,8 +4,12 @@ function App() {
 
   return (
     <>
-     <h1 className="text-3xl font-bold p-4"> Sports Hub</h1>
-     <button className="btn btn-primary">DaisyUI Button</button>
+     <div className="p-10 flex flex-col gap-4">
+      <h1 className="text-3xl font-bold">Sports Hub</h1>
+      <div className="flex gap-4">
+
+      </div>
+     </div>
     </>
   )
 }
